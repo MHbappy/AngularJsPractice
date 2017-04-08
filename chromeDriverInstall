@@ -20,3 +20,11 @@ sudo ln -s /usr/local/share/chromedriver /usr/bin/chromedriver
 
 sudo apt-get install python-pip
 pip install pyvirtualdisplay selenium
+
+
+
+
+
+windows : https://sites.google.com/a/chromium.org/chromedriver/downloads
+
+path :: "C:/Program Files/chromedriver.exe"
